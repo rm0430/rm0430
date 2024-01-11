@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey:)) やっほー！
+I am from Japan and living in Jordan🇯🇵🇯🇴
+### I like:
+- sleeping
+- eating
+- playing volleyball
+- watching k-dramas
+- listening to music
+- traveling
+-  cats and dogs
 
-<!--
-**rm0430/rm0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![image](https://github.com/rm0430/rm0430/assets/156184217/9ec45114-2af2-49be-8027-c0648e1a0d5b)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
