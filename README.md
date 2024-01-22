@@ -1,3 +1,4 @@
+# Welcome!
 ## Hey:)) やっほー！
 I am from Japan and living in Jordan🇯🇵🇯🇴
 ### I like:
@@ -15,7 +16,7 @@ I am from Japan and living in Jordan🇯🇵🇯🇴
 
 I like watching k-dramas in [Netflix](netflix.com)!
 
-Reasons I like are
+### Reasons I like are
 * The stories are so fun
 * Korean girls are so pretty
 * Actor and actress are good at acting
