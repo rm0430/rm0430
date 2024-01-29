@@ -32,4 +32,6 @@ I like watching k-dramas in [Netflix](netflix.com)!
 
 <img width="505" alt="Screenshot 2024-01-11 at 21 40 34" src="https://github.com/rm0430/rm0430/assets/156184217/5af3a20f-ae08-4767-8bdd-6fb68d9a2015">
 
+You guys need to watch kdramas!
+
 
